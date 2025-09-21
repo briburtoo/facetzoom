@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1024" height="512" fill="#f7f9fc" />
+  <!-- G0 Chip -->
+  <g transform="translate(60,60)">
+    <rect width="120" height="120" rx="16" fill="#ffffff" stroke="#d0d8f0" stroke-width="2" />
+    <rect x="0" y="0" width="120" height="24" fill="#4ade80" />
+    <text x="60" y="48" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">QLD</text>
+    <text x="60" y="80" text-anchor="middle" font-size="18" font-weight="600" fill="#16a34a">+1.30%</text>
+  </g>
+  <text x="120" y="200" text-anchor="middle" font-size="16" fill="#475569">G0 Spark</text>
+
+  <!-- G1 Tile -->
+  <g transform="translate(250,40)">
+    <rect width="220" height="260" rx="20" fill="#ffffff" stroke="#d0d8f0" stroke-width="2" />
+    <rect x="0" y="0" width="220" height="32" fill="#4ade80" />
+    <text x="16" y="60" font-size="22" font-weight="700" fill="#0f172a">QLD</text>
+    <text x="204" y="60" text-anchor="end" font-size="18" font-weight="600" fill="#16a34a">+1.30%</text>
+    <text x="16" y="95" font-size="16" fill="#475569">Price</text>
+    <text x="204" y="95" text-anchor="end" font-size="18" font-weight="600" fill="#0f172a">$136.72</text>
+    <text x="16" y="125" font-size="16" fill="#475569">Volume</text>
+    <text x="204" y="125" text-anchor="end" font-size="18" font-weight="600" fill="#0f172a">2.1M</text>
+    <text x="16" y="155" font-size="16" fill="#475569">Open</text>
+    <text x="204" y="155" text-anchor="end" font-size="18" font-weight="600" fill="#0f172a">135.77</text>
+    <text x="16" y="185" font-size="16" fill="#475569">Close</text>
+    <text x="204" y="185" text-anchor="end" font-size="18" font-weight="600" fill="#0f172a">136.72</text>
+    <rect x="16" y="210" width="90" height="24" rx="12" fill="#e0f2fe" />
+    <text x="60" y="227" text-anchor="middle" font-size="14" fill="#0369a1">$100–$200</text>
+    <rect x="120" y="210" width="90" height="24" rx="12" fill="#fee2e2" />
+    <text x="165" y="227" text-anchor="middle" font-size="14" fill="#be123c">1.0M–5.0M</text>
+  </g>
+  <text x="360" y="320" text-anchor="middle" font-size="16" fill="#475569">G1 Compare</text>
+
+  <!-- G2 Detail -->
+  <g transform="translate(540,20)">
+    <rect width="320" height="360" rx="24" fill="#ffffff" stroke="#d0d8f0" stroke-width="2" />
+    <rect x="0" y="0" width="320" height="36" fill="#4ade80" />
+    <text x="20" y="70" font-size="26" font-weight="700" fill="#0f172a">QLD</text>
+    <text x="300" y="70" text-anchor="end" font-size="22" font-weight="700" fill="#16a34a">+1.30%</text>
+    <text x="20" y="108" font-size="18" fill="#475569">Price</text>
+    <text x="300" y="108" text-anchor="end" font-size="20" font-weight="600" fill="#0f172a">$136.72</text>
+    <text x="20" y="136" font-size="18" fill="#475569">Volume</text>
+    <text x="300" y="136" text-anchor="end" font-size="20" font-weight="600" fill="#0f172a">2,102,514</text>
+    <text x="20" y="164" font-size="18" fill="#475569">Day range</text>
+    <line x1="20" x2="300" y1="182" y2="182" stroke="#cbd5f5" stroke-width="4" stroke-linecap="round" />
+    <circle cx="90" cy="182" r="6" fill="#4ade80" />
+    <text x="20" y="206" font-size="14" fill="#475569">135.12</text>
+    <text x="300" y="206" text-anchor="end" font-size="14" fill="#475569">137.02</text>
+    <text x="20" y="232" font-size="18" fill="#475569">52W range</text>
+    <line x1="20" x2="300" y1="250" y2="250" stroke="#cbd5f5" stroke-width="4" stroke-linecap="round" />
+    <circle cx="240" cy="250" r="6" fill="#4ade80" />
+    <text x="20" y="274" font-size="14" fill="#475569">121.61</text>
+    <text x="300" y="274" text-anchor="end" font-size="14" fill="#475569">143.87</text>
+    <text x="20" y="302" font-size="18" fill="#475569">P/E Ratio</text>
+    <text x="300" y="302" text-anchor="end" font-size="20" font-weight="600" fill="#0f172a">79.1</text>
+    <text x="20" y="330" font-size="18" fill="#475569">Market Cap</text>
+    <text x="300" y="330" text-anchor="end" font-size="20" font-weight="600" fill="#0f172a">$2.96B</text>
+  </g>
+  <text x="700" y="400" text-anchor="middle" font-size="16" fill="#475569">G2 Detail</text>
+</svg>
