@@ -1,0 +1,15 @@
+{
+  "name": "@facetzoom/example-basic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@facetzoom/filters": "^0.1.0",
+    "@facetzoom/viewer": "^0.1.0",
+    "tslib": "^2.7.0"
+  }
+}

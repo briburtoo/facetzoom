@@ -1,0 +1,18 @@
+{
+  "name": "@facetzoom/server",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "@facetzoom/filters": "^0.1.0",
+    "express": "^4.19.2",
+    "superstruct": "^1.0.4",
+    "tslib": "^2.7.0",
+    "undici": "^5.28.4"
+  }
+}
